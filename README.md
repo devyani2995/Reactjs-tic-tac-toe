@@ -29,10 +29,15 @@ A simple Tic-Tac-Toe game built with React.
    npm install
 
 3. Running the App
-To start the development server, run:
  
    ```sh
    npm install
 
 The app will open in your browser at http://localhost:3000.
    
+### Project Structure
+
+- src/App.js – Main app component
+- src/Game.js – Game logic and board rendering
+- src/App.css – App styling
+- public/ – Static assets and HTML template
